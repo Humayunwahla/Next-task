@@ -17,7 +17,7 @@ function Items() {
         <CardMedia
           component="img"
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
+         // image="/static/images/cards/contemplative-reptile.jpg"
           alt="green iguana"
         />
         <CardContent>
@@ -42,7 +42,7 @@ function Items() {
         <CardMedia
           component="img"
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
+         // image="/static/images/cards/contemplative-reptile.jpg"
           alt="green iguana"
         />
         <CardContent>
@@ -66,7 +66,7 @@ function Items() {
         <CardMedia
           component="img"
           height="140"
-          image="/static/images/cards/contemplative-reptile.jpg"
+         // image="/static/images/cards/contemplative-reptile.jpg"
           alt="green iguana"
         />
         <CardContent>
